@@ -17,7 +17,12 @@ export default function Download() {
               className="inline-flex min-w-[200px] items-center justify-center gap-2 rounded-xl bg-black px-6 py-3.5 text-sm font-semibold text-white transition hover:bg-gray-900"
               aria-label="Download on the App Store"
             >
-              <span className="text-lg"></span>
+              <img
+                src="/apple.png"
+                alt=""
+                className="h-5 w-5 object-contain"
+                aria-hidden
+              />
               App Store
             </a>
             <a
@@ -25,7 +30,12 @@ export default function Download() {
               className="inline-flex min-w-[200px] items-center justify-center gap-2 rounded-xl bg-black px-6 py-3.5 text-sm font-semibold text-white transition hover:bg-gray-900"
               aria-label="Get it on Google Play"
             >
-              <span className="text-lg">▶</span>
+              <img
+                src="/google.png"
+                alt=""
+                className="h-5 w-5 object-contain"
+                aria-hidden
+              />
               Google Play
             </a>
           </div>
