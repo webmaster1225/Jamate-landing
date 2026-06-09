@@ -16,11 +16,14 @@ export default function Header() {
     <header className="sticky top-0 z-50 border-b border-gray-200/80 bg-white/90 backdrop-blur-md">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
         <Link to="/" className="flex items-center gap-3">
-          <img
-            src="/jammate-icon.png"
-            alt="JamMate"
-            className="h-10 w-10 rounded-xl"
-          />
+          <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[#800020]">
+            <img
+              src="/jammate-logo.png"
+              alt=""
+              className="h-6 w-6 object-contain"
+              aria-hidden
+            />
+          </div>
           <span className="text-xl font-bold tracking-tight text-gray-900">
             JamMate
           </span>

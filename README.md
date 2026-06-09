@@ -29,6 +29,19 @@ npm run preview
 
 Static files are output to `dist/` and can be deployed to Vercel, Netlify, Cloudflare Pages, GitHub Pages, or any static host.
 
+### Deploy to Vercel
+
+If this repo contains `app/`, `server/`, and `landing/` together, set **Root Directory** to `landing` in your Vercel project settings.
+
+| Setting | Value |
+|---------|-------|
+| Framework Preset | Vite |
+| Build Command | `npm run build` |
+| Output Directory | `dist` |
+| Install Command | `npm install` |
+
+`vercel.json` includes SPA rewrites so routes like `/privacy`, `/terms`, and `/support` work on refresh and direct links.
+
 ## Customization
 
 - **Branding:** Colors are defined in `src/index.css` (`--color-primary`, etc.)
