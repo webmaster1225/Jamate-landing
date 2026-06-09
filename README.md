@@ -1,12 +1,13 @@
 # JamMate Landing Page
 
-Marketing site for the JamMate musician networking app. Includes the home page, Privacy Policy, and Terms of Service.
+Marketing site for the JamMate musician networking app. Includes the home page, Support, Privacy Policy, and Terms of Service.
 
 ## Pages
 
 | Route | Description |
 |-------|-------------|
 | `/` | Landing page with features and download CTA |
+| `/support` | Help center, FAQs, and contact |
 | `/privacy` | Privacy Policy |
 | `/terms` | Terms of Service |
 
@@ -31,6 +32,7 @@ Static files are output to `dist/` and can be deployed to Vercel, Netlify, Cloud
 ## Customization
 
 - **Branding:** Colors are defined in `src/index.css` (`--color-primary`, etc.)
+- **Support content:** Edit `src/content/support.ts` (FAQs and contact email)
 - **Legal content:** Edit `src/content/privacy.ts` and `src/content/terms.ts`
 - **Contact emails:** Update addresses in the footer and legal documents
 - **App store links:** Replace `#` placeholders in `src/components/Download.tsx` when the app launches

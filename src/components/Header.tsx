@@ -4,6 +4,7 @@ import { Link, NavLink } from 'react-router-dom'
 const navLinks = [
   { to: '/#features', label: 'Features', isHash: true },
   { to: '/#download', label: 'Download', isHash: true },
+  { to: '/support', label: 'Support', isHash: false },
   { to: '/privacy', label: 'Privacy', isHash: false },
   { to: '/terms', label: 'Terms', isHash: false },
 ]
