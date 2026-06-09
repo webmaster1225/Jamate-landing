@@ -20,7 +20,7 @@ export default function Header() {
             <img
               src="/jammate-logo.png"
               alt=""
-              className="h-6 w-6 object-contain"
+              className="h-12 w-12 object-contain"
               aria-hidden
             />
           </div>
