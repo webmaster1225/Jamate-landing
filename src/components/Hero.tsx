@@ -1,4 +1,5 @@
 export default function Hero() {
+  const authBg = '/auth-bg.png';
   return (
     <section className="relative overflow-hidden bg-surface-dark text-white">
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_rgba(126,0,30,0.35),_transparent_55%)]" />
@@ -36,6 +37,9 @@ export default function Hero() {
             </a>
           </div>
         </div>
+      </div>
+      <div className="absolute top-0 right-0 w-auto h-full">
+        <img src={authBg} alt="JamMate" className="w-full h-full [mask-image:linear-gradient(to_left,rgba(0,0,0,1),rgba(0,0,0,0))]" />
       </div>
     </section>
   )
