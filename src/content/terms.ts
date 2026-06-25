@@ -72,7 +72,7 @@ export const termsOfService = {
       title: '7. Subscriptions and Payments',
       content: `
         <p>JamMate may offer free and paid subscription tiers in the future. When paid plans become available, pricing, billing cycles, renewal terms, and cancellation instructions will be presented before purchase through the relevant app store or payment provider.</p>
-        <p>Unless otherwise stated, purchases made through Apple App Store or Google Play are subject to those platforms' payment and refund policies.</p>
+        <p>Unless otherwise stated, purchases made through Apple App Store are subject to those platforms' payment and refund policies.</p>
       `,
     },
     {

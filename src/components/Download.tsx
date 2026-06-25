@@ -13,7 +13,7 @@ export default function Download() {
 
           <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
             <a
-              href="#"
+              href="https://apps.apple.com/us/app/jamate/id6777774757"
               className="inline-flex min-w-[200px] items-center justify-center gap-2 rounded-xl bg-black px-6 py-3.5 text-sm font-semibold text-white transition hover:bg-gray-900"
               aria-label="Download on the App Store"
             >
@@ -24,19 +24,6 @@ export default function Download() {
                 aria-hidden
               />
               App Store
-            </a>
-            <a
-              href="#"
-              className="inline-flex min-w-[200px] items-center justify-center gap-2 rounded-xl bg-black px-6 py-3.5 text-sm font-semibold text-white transition hover:bg-gray-900"
-              aria-label="Get it on Google Play"
-            >
-              <img
-                src="/google.png"
-                alt=""
-                className="h-5 w-5 object-contain"
-                aria-hidden
-              />
-              Google Play
             </a>
           </div>
 

@@ -9,7 +9,7 @@ export const supportFaqs: FaqItem[] = [
   {
     question: 'How do I create a JamMate account?',
     answer:
-      'Download JamMate from the App Store or Google Play, tap "Start Now" on the welcome screen, and sign up with your email or continue with Google or Apple. Complete your musician profile with your instrument, style, and location to start discovering others.',
+      'Download JamMate from the App Store, tap "Start Now" on the welcome screen, and sign up with your email or continue with Google or Apple. Complete your musician profile with your instrument, style, and location to start discovering others.',
   },
   {
     question: 'How does matching work?',
