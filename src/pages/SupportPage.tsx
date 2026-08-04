@@ -57,7 +57,7 @@ export default function SupportPage() {
             Support
           </h1>
           <p className="mt-4 text-lg leading-relaxed text-gray-600">
-            Need help with JamMate? Browse common questions below or reach out
+            Need help with JaMate? Browse common questions below or reach out
             to our team — we are here to help you connect and jam.
           </p>
         </div>
@@ -66,7 +66,7 @@ export default function SupportPage() {
       <section className="mx-auto max-w-3xl px-6 py-12 md:py-16">
         <div className="grid gap-6 sm:grid-cols-2">
           <a
-            href={`mailto:${supportEmail}?subject=JamMate%20Support%20Request`}
+            href={`mailto:${supportEmail}?subject=JaMate%20Support%20Request`}
             className="rounded-2xl border border-gray-200 bg-white p-6 shadow-sm transition hover:border-primary/30 hover:shadow-md"
           >
             <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-primary/10 text-primary">
@@ -93,7 +93,7 @@ export default function SupportPage() {
           </a>
 
           <a
-            href={`mailto:${supportEmail}?subject=JamMate%20Safety%20Report`}
+            href={`mailto:${supportEmail}?subject=JaMate%20Safety%20Report`}
             className="rounded-2xl border border-gray-200 bg-white p-6 shadow-sm transition hover:border-primary/30 hover:shadow-md"
           >
             <div className="flex h-10 w-10 items-center justify-center rounded-xl bg-primary/10 text-primary">
@@ -124,7 +124,7 @@ export default function SupportPage() {
           <h2 className="font-semibold text-gray-900">Response time</h2>
           <p className="mt-2 text-sm leading-relaxed text-gray-600">
             We aim to reply within 1–2 business days. For in-app safety issues,
-            please also use the report feature inside JamMate so our team can act
+            please also use the report feature inside JaMate so our team can act
             quickly.
           </p>
         </div>
@@ -135,7 +135,7 @@ export default function SupportPage() {
           Frequently asked questions
         </h2>
         <p className="mt-2 text-gray-600">
-          Quick answers to the most common JamMate questions.
+          Quick answers to the most common JaMate questions.
         </p>
 
         <div className="mt-8 rounded-2xl border border-gray-200 bg-white px-6">
@@ -178,7 +178,7 @@ export default function SupportPage() {
               </Link>
               <span className="text-gray-500">
                 {' '}
-                — rules for using JamMate
+                — rules for using JaMate
               </span>
             </li>
             <li>
@@ -186,7 +186,7 @@ export default function SupportPage() {
                 href="/#download"
                 className="font-medium text-primary hover:text-primary-dark"
               >
-                Download JamMate
+                Download JaMate
               </a>
               <span className="text-gray-500">
                 {' '}

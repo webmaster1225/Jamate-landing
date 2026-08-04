@@ -46,7 +46,7 @@ export default function Features() {
             Everything you need to find your bandmate
           </h2>
           <p className="mt-4 text-lg text-gray-600">
-            JamMate is built for musicians who want to connect locally — whether
+            JaMate is built for musicians who want to connect locally — whether
             you are looking for a drummer, a vocalist, or your next creative
             collaborator.
           </p>

@@ -14,7 +14,7 @@ export default function Hero() {
             Find your next jam partner
           </h1>
           <p className="mt-6 text-lg leading-relaxed text-gray-300 md:text-xl">
-            JamMate helps musicians discover, connect, and collaborate with
+            JaMate helps musicians discover, connect, and collaborate with
             nearby talent. Swipe to match, chat to plan, and meet up to make
             music together.
           </p>
@@ -39,7 +39,7 @@ export default function Hero() {
         </div>
       </div>
       <div className="absolute top-0 right-0 w-auto h-full">
-        <img src={authBg} alt="JamMate" className="w-full h-full [mask-image:linear-gradient(to_left,rgba(0,0,0,1),rgba(0,0,0,0))]" />
+        <img src={authBg} alt="JaMate" className="w-full h-full [mask-image:linear-gradient(to_left,rgba(0,0,0,1),rgba(0,0,0,0))]" />
       </div>
     </section>
   )

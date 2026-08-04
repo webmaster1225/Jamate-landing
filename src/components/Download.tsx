@@ -7,7 +7,7 @@ export default function Download() {
             Ready to start jamming?
           </h2>
           <p className="mx-auto mt-4 max-w-2xl text-base leading-relaxed text-white/85 md:text-lg">
-            Download JamMate on iOS or Android and start discovering musicians
+            Download JaMate on iOS or Android and start discovering musicians
             in your area today.
           </p>
 
@@ -28,7 +28,7 @@ export default function Download() {
           </div>
 
           <p className="mt-6 text-sm text-white/70">
-            App store links will be added when JamMate launches publicly.
+            App store links will be added when JaMate launches publicly.
           </p>
         </div>
       </div>

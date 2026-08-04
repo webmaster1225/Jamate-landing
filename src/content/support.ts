@@ -7,9 +7,9 @@ export type FaqItem = {
 
 export const supportFaqs: FaqItem[] = [
   {
-    question: 'How do I create a JamMate account?',
+    question: 'How do I create a JaMate account?',
     answer:
-      'Download JamMate from the App Store, tap "Start Now" on the welcome screen, and sign up with your email or continue with Google or Apple. Complete your musician profile with your instrument, style, and location to start discovering others.',
+      'Download JaMate from the App Store, tap "Start Now" on the welcome screen, and sign up with your email or continue with Google or Apple. Complete your musician profile with your instrument, style, and location to start discovering others.',
   },
   {
     question: 'How does matching work?',
@@ -17,9 +17,9 @@ export const supportFaqs: FaqItem[] = [
       'On the Discover tab, swipe right to like a musician or left to skip. When you and another user both like each other, it is a match. You can then chat and plan a jam session together.',
   },
   {
-    question: 'Why does JamMate need my location?',
+    question: 'Why does JaMate need my location?',
     answer:
-      'Location helps power Discover and JamMap so you can find musicians near you. You can control location access in your device settings. JamMate only uses location while you use the app, with your permission.',
+      'Location helps power Discover and JamMap so you can find musicians near you. You can control location access in your device settings. JaMate only uses location while you use the app, with your permission.',
   },
   {
     question: 'How do I change my privacy settings?',
@@ -29,7 +29,7 @@ export const supportFaqs: FaqItem[] = [
   {
     question: 'How do I block or report a user?',
     answer:
-      'From a user\'s profile or inside a chat, use the block or report options. Blocked users cannot contact you or see your profile in discovery. Reports are reviewed by our team to keep JamMate safe.',
+      'From a user\'s profile or inside a chat, use the block or report options. Blocked users cannot contact you or see your profile in discovery. Reports are reviewed by our team to keep JaMate safe.',
   },
   {
     question: 'I forgot my password. How do I reset it?',
@@ -39,11 +39,11 @@ export const supportFaqs: FaqItem[] = [
   {
     question: 'How do I delete my account?',
     answer:
-      'To request account deletion, email us at jamatemusic@gmail.com from the address linked to your JamMate account. Include your profile name so we can verify your request. We will delete your data within a reasonable period, subject to legal retention requirements.',
+      'To request account deletion, email us at jamatemusic@gmail.com from the address linked to your JaMate account. Include your profile name so we can verify your request. We will delete your data within a reasonable period, subject to legal retention requirements.',
   },
   {
-    question: 'Is JamMate free?',
+    question: 'Is JaMate free?',
     answer:
-      'JamMate offers a free tier with core features including discovery, matching, chat, and JamMap. Optional paid plans may be introduced in the future. Any pricing will be shown clearly before you subscribe.',
+      'JaMate offers a free tier with core features including discovery, matching, chat, and JamMap. Optional paid plans may be introduced in the future. Any pricing will be shown clearly before you subscribe.',
   },
 ]

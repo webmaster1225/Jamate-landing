@@ -18,14 +18,14 @@ export default function Header() {
         <Link to="/" className="flex items-center gap-3">
           <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[#800020]">
             <img
-              src="/jammate-logo.png"
+              src="/JaMate-logo.png"
               alt=""
               className="h-12 w-12 object-contain"
               aria-hidden
             />
           </div>
           <span className="text-xl font-bold tracking-tight text-gray-900">
-            JamMate
+            JaMate
           </span>
         </Link>
 

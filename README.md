@@ -1,6 +1,6 @@
-# JamMate Landing Page
+# JaMate Landing Page
 
-Marketing site for the JamMate musician networking app. Includes the home page, Support, Privacy Policy, and Terms of Service.
+Marketing site for the JaMate musician networking app. Includes the home page, Support, Privacy Policy, and Terms of Service.
 
 ## Pages
 
@@ -49,11 +49,11 @@ If this repo contains `app/`, `server/`, and `landing/` together, set **Root Dir
 - **Legal content:** Edit `src/content/privacy.ts` and `src/content/terms.ts`
 - **Contact emails:** Update addresses in the footer and legal documents
 - **App store links:** Replace `#` placeholders in `src/components/Download.tsx` when the app launches
-- **Icon:** Replace `public/jammate-icon.png`
+- **Icon:** Replace `public/JaMate-icon.png`
 
 ## App Store Requirements
 
-When submitting JamMate to the App Store or Google Play, use these URLs:
+When submitting JaMate to the App Store or Google Play, use these URLs:
 
 - Privacy Policy: `https://your-domain.com/privacy`
 - Terms of Service: `https://your-domain.com/terms`
@@ -62,4 +62,4 @@ Replace `your-domain.com` with your deployed domain after publishing this site.
 
 ## Important Note
 
-The Privacy Policy and Terms of Service are drafted based on JamMate's current features and data practices. They are **not legal advice**. Have a qualified attorney review them before publishing, especially if you operate in regulated regions (EU/UK GDPR, California CCPA, etc.).
+The Privacy Policy and Terms of Service are drafted based on JaMate's current features and data practices. They are **not legal advice**. Have a qualified attorney review them before publishing, especially if you operate in regulated regions (EU/UK GDPR, California CCPA, etc.).

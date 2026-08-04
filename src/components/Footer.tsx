@@ -10,11 +10,11 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-3">
               <img
-                src="/jammate-icon.png"
-                alt="JamMate"
+                src="/JaMate-icon.png"
+                alt="JaMate"
                 className="h-9 w-9 rounded-lg"
               />
-              <span className="text-lg font-semibold text-white">JamMate</span>
+              <span className="text-lg font-semibold text-white">JaMate</span>
             </div>
             <p className="mt-3 max-w-sm text-sm leading-relaxed text-gray-400">
               By musicians for musicians. Find your next jam partner, match
@@ -81,7 +81,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-10 border-t border-white/10 pt-6 text-center text-sm text-gray-500">
-          © {year} JamMate. All rights reserved.
+          © {year} JaMate. All rights reserved.
         </div>
       </div>
     </footer>

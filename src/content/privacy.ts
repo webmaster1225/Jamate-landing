@@ -2,7 +2,7 @@ export const privacyPolicy = {
   title: 'Privacy Policy',
   lastUpdated: 'June 9, 2026',
   intro:
-    'JamMate ("we," "us," or "our") operates the JamMate mobile application and related services. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our app. Please read this policy carefully. By using JamMate, you agree to the collection and use of information in accordance with this policy.',
+    'JaMate ("we," "us," or "our") operates the JaMate mobile application and related services. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our app. Please read this policy carefully. By using JaMate, you agree to the collection and use of information in accordance with this policy.',
   sections: [
     {
       title: '1. Information We Collect',
@@ -57,7 +57,7 @@ export const privacyPolicy = {
     {
       title: '3. Privacy Settings You Control',
       content: `
-        <p>JamMate includes in-app privacy controls that let you manage how your profile appears to others. Depending on your settings, you may choose to:</p>
+        <p>JaMate includes in-app privacy controls that let you manage how your profile appears to others. Depending on your settings, you may choose to:</p>
         <ul>
           <li>Hide your profile from discovery</li>
           <li>Hide your age from other users</li>
@@ -71,17 +71,17 @@ export const privacyPolicy = {
       content: `
         <p>We do not sell your personal information. We may share information only in the following circumstances:</p>
         <ul>
-          <li><strong>With other users:</strong> Your public profile information, approximate location-based discovery data, and messages are shared with other JamMate users according to how you use the app and your privacy settings.</li>
-          <li><strong>Service providers:</strong> We use trusted third parties to help operate JamMate, including cloud hosting, image storage, email delivery, maps, and authentication providers. These providers process data on our behalf under contractual obligations.</li>
+          <li><strong>With other users:</strong> Your public profile information, approximate location-based discovery data, and messages are shared with other JaMate users according to how you use the app and your privacy settings.</li>
+          <li><strong>Service providers:</strong> We use trusted third parties to help operate JaMate, including cloud hosting, image storage, email delivery, maps, and authentication providers. These providers process data on our behalf under contractual obligations.</li>
           <li><strong>Legal and safety:</strong> We may disclose information if required by law, to protect the rights and safety of users, or to investigate fraud, abuse, or security issues.</li>
-          <li><strong>Business transfers:</strong> If JamMate is involved in a merger, acquisition, or asset sale, your information may be transferred as part of that transaction.</li>
+          <li><strong>Business transfers:</strong> If JaMate is involved in a merger, acquisition, or asset sale, your information may be transferred as part of that transaction.</li>
         </ul>
       `,
     },
     {
       title: '5. Third-Party Services',
       content: `
-        <p>JamMate integrates with third-party services that have their own privacy practices, including:</p>
+        <p>JaMate integrates with third-party services that have their own privacy practices, including:</p>
         <ul>
           <li><strong>Google Sign-In and Google Maps</strong> (on supported devices)</li>
           <li><strong>Apple Sign-In</strong> (on supported devices)</li>
@@ -89,7 +89,7 @@ export const privacyPolicy = {
           <li><strong>Resend</strong> for transactional email</li>
           <li><strong>Cloud hosting providers</strong> for API and database infrastructure</li>
         </ul>
-        <p>We encourage you to review the privacy policies of these providers. JamMate is not responsible for the practices of third-party services outside our control.</p>
+        <p>We encourage you to review the privacy policies of these providers. JaMate is not responsible for the practices of third-party services outside our control.</p>
       `,
     },
     {
@@ -125,19 +125,19 @@ export const privacyPolicy = {
     {
       title: '9. Children\'s Privacy',
       content: `
-        <p>JamMate is not intended for children under 13 years of age (or the minimum age required in your country). We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, contact us and we will take steps to delete it.</p>
+        <p>JaMate is not intended for children under 13 years of age (or the minimum age required in your country). We do not knowingly collect personal information from children. If you believe a child has provided us with personal information, contact us and we will take steps to delete it.</p>
       `,
     },
     {
       title: '10. International Users',
       content: `
-        <p>JamMate may process and store information in countries other than where you live. Those countries may have different data protection laws. By using the app, you consent to the transfer of your information to facilities and service providers located globally, subject to appropriate safeguards where required by law.</p>
+        <p>JaMate may process and store information in countries other than where you live. Those countries may have different data protection laws. By using the app, you consent to the transfer of your information to facilities and service providers located globally, subject to appropriate safeguards where required by law.</p>
       `,
     },
     {
       title: '11. Changes to This Privacy Policy',
       content: `
-        <p>We may update this Privacy Policy from time to time. When we do, we will revise the "Last updated" date at the top of this page. If changes are material, we may provide additional notice in the app or by email. Your continued use of JamMate after changes become effective means you accept the updated policy.</p>
+        <p>We may update this Privacy Policy from time to time. When we do, we will revise the "Last updated" date at the top of this page. If changes are material, we may provide additional notice in the app or by email. Your continued use of JaMate after changes become effective means you accept the updated policy.</p>
       `,
     },
     {
