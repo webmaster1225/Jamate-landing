@@ -49,7 +49,7 @@ If this repo contains `app/`, `server/`, and `landing/` together, set **Root Dir
 - **Legal content:** Edit `src/content/privacy.ts` and `src/content/terms.ts`
 - **Contact emails:** Update addresses in the footer and legal documents
 - **App store links:** Replace `#` placeholders in `src/components/Download.tsx` when the app launches
-- **Icon:** Replace `public/Jamate-icon.png`
+- **Icon:** Replace `public/jamate-icon.png`
 
 ## App Store Requirements
 
