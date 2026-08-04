@@ -18,7 +18,7 @@ export default function Header() {
         <Link to="/" className="flex items-center gap-3">
           <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[#800020]">
             <img
-              src="/JaMate-logo.png"
+              src="/Jamate-logo.png"
               alt=""
               className="h-12 w-12 object-contain"
               aria-hidden

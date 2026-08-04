@@ -10,7 +10,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-3">
               <img
-                src="/JaMate-icon.png"
+                src="/Jamate-icon.png"
                 alt="JaMate"
                 className="h-9 w-9 rounded-lg"
               />
