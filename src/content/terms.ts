@@ -1,6 +1,6 @@
 export const termsOfService = {
   title: 'Terms of Service',
-  lastUpdated: 'June 9, 2026',
+  lastUpdated: 'August 5, 2026',
   intro:
     'These Terms of Service ("Terms") govern your access to and use of the JamMate mobile application, website, and related services (collectively, the "Service") operated by JamMate ("we," "us," or "our"). By creating an account or using the Service, you agree to these Terms. If you do not agree, do not use JamMate.',
   sections: [
@@ -65,6 +65,7 @@ export const termsOfService = {
       title: '6. Location and Safety',
       content: `
         <p>JamMate uses location data to help you discover nearby musicians. You are responsible for deciding whether and when to share your location and whether to meet other users in person.</p>
+        <p>To help protect your privacy, JamMate applies a location offset to the position shown to other users. As a result, other users will see an approximate location rather than your precise or exact location. This measure is intended to reduce the risk that your exact whereabouts can be identified through the Service. You acknowledge that displayed locations on maps and in discovery features are approximate and may not reflect a user's true position.</p>
         <p>JamMate does not conduct background checks and does not guarantee the identity, behavior, or safety of any user. Always use caution when communicating with or meeting people from the internet. Consider meeting in public places and informing someone you trust of your plans.</p>
       `,
     },
