@@ -39,7 +39,7 @@ export const supportFaqs: FaqItem[] = [
   {
     question: 'How do I delete my account?',
     answer:
-      'To request account deletion, email us at jamatemusic@gmail.com from the address linked to your JaMate account. Include your profile name so we can verify your request. We will delete your data within a reasonable period, subject to legal retention requirements.',
+      'In the app, go to Profile → Delete account and confirm. Or visit our account deletion page and email jamatemusic@gmail.com from the address linked to your JaMate account. We process email requests within 30 days, subject to legal retention requirements.',
   },
   {
     question: 'Is JaMate free?',

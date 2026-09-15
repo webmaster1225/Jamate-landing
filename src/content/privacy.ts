@@ -119,6 +119,7 @@ export const privacyPolicy = {
           <li>Request a copy of your data in a portable format</li>
         </ul>
         <p>To exercise these rights, contact us at <a href="mailto:jamatemusic@gmail.com">jamatemusic@gmail.com</a>. We may need to verify your identity before responding.</p>
+        <p>You can also request <a href="/delete-account">account deletion</a> or <a href="/delete-data">data deletion</a> through our public request pages, or delete your account directly in the JaMate app under Profile → Delete account.</p>
         <p>You can also manage permissions for location, photos, and notifications directly in your device settings.</p>
       `,
     },

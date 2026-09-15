@@ -182,6 +182,30 @@ export default function SupportPage() {
               </span>
             </li>
             <li>
+              <Link
+                to="/delete-account"
+                className="font-medium text-primary hover:text-primary-dark"
+              >
+                Delete account
+              </Link>
+              <span className="text-gray-500">
+                {' '}
+                — request account and data deletion
+              </span>
+            </li>
+            <li>
+              <Link
+                to="/delete-data"
+                className="font-medium text-primary hover:text-primary-dark"
+              >
+                Delete data
+              </Link>
+              <span className="text-gray-500">
+                {' '}
+                — request deletion of personal data
+              </span>
+            </li>
+            <li>
               <a
                 href="/#download"
                 className="font-medium text-primary hover:text-primary-dark"

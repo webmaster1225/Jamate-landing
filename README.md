@@ -1,6 +1,6 @@
 # JaMate Landing Page
 
-Marketing site for the JaMate musician networking app. Includes the home page, Support, Privacy Policy, and Terms of Service.
+Marketing site for the JaMate musician networking app. Includes the home page, Support, Privacy Policy, Terms of Service, and account/data deletion request pages.
 
 ## Pages
 
@@ -10,6 +10,8 @@ Marketing site for the JaMate musician networking app. Includes the home page, S
 | `/support` | Help center, FAQs, and contact |
 | `/privacy` | Privacy Policy |
 | `/terms` | Terms of Service |
+| `/delete-account` | Request deletion of account and associated data |
+| `/delete-data` | Request deletion of personal data |
 
 ## Development
 
@@ -40,7 +42,7 @@ If this repo contains `app/`, `server/`, and `landing/` together, set **Root Dir
 | Output Directory | `dist` |
 | Install Command | `npm install` |
 
-`vercel.json` includes SPA rewrites so routes like `/privacy`, `/terms`, and `/support` work on refresh and direct links.
+`vercel.json` includes SPA rewrites so routes like `/privacy`, `/terms`, `/support`, `/delete-account`, and `/delete-data` work on refresh and direct links.
 
 ## Customization
 
@@ -57,6 +59,8 @@ When submitting JaMate to the App Store or Google Play, use these URLs:
 
 - Privacy Policy: `https://your-domain.com/privacy`
 - Terms of Service: `https://your-domain.com/terms`
+- Account deletion request: `https://your-domain.com/delete-account`
+- Data deletion request: `https://your-domain.com/delete-data`
 
 Replace `your-domain.com` with your deployed domain after publishing this site.
 
